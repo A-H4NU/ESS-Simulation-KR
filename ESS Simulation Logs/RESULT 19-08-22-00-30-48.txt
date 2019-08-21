@@ -1,0 +1,71 @@
+<< 최종 개체 수: (Count - Removed) * 2 >>
+
+#1
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 136.70, Count:  876, Removed:  452 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: + 149.60, Count:  124, Removed:   48 ]
+
+#2
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 137.29, Count:  822, Removed:  392 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: +  43.88, Count:  178, Removed:  108 ]
+
+#3
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 144.02, Count:  870, Removed:  420 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: +  62.62, Count:  130, Removed:   80 ]
+
+#4
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 136.19, Count:  840, Removed:  401 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: +  79.63, Count:  160, Removed:   99 ]
+
+#5
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 140.63, Count:  838, Removed:  398 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: +  58.46, Count:  162, Removed:  102 ]
+
+#6
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 132.30, Count:  842, Removed:  415 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: + 114.43, Count:  158, Removed:   85 ]
+
+#7
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 136.31, Count:  858, Removed:  426 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: + 102.18, Count:  142, Removed:   74 ]
+
+#8
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 140.37, Count:  862, Removed:  418 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: +  90.14, Count:  138, Removed:   82 ]
+
+#9
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 133.37, Count:  860, Removed:  429 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: + 124.86, Count:  140, Removed:   71 ]
+
+#10
+[ Type: Pigeon            , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Hawk              , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Retaliator        , Avg Score: + 137.02, Count:  836, Removed:  406 ]
+[ Type: Bully             , Avg Score:      NaN, Count:    0, Removed:    0 ]
+[ Type: Prober_Retaliator , Avg Score: +  65.79, Count:  164, Removed:   94 ]
